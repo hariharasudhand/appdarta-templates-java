@@ -5,10 +5,7 @@ Structure-only scaffolds for the **java** tech stack.
 Part of [appdarta-template-registry](https://github.com/hariharasudhand/appdarta-template-registry).
 Requires the [Darta Framework](https://github.com/hariharasudhand/appdarta-framework).
 
-## Usage
+## Bundles
 
-```bash
-export DARTA_TEMPLATE_REGISTRY_PATH=/path/to/appdarta-template-registry
-darta templates sync
-darta templates list --tech Java
-```
+- `agent-runtime-docker-java` — `stacks/java/runtime-docker/java/agent-runtime-docker-java`
+- `hexagonal-java` — `stacks/java/hexagonal/java/hexagonal-java`
